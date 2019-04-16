@@ -1,0 +1,8 @@
+commit ffef19305ce20841a71ee167853e384fcab6d191 (HEAD -> logs, 
+origin/master, origin/bugFix1, master, bugFix1)
+Author: Marija Gucinovska <m.gucinovska@gmail.com>
+Date:   Tue Apr 16 15:46:42 2019 +0200
+
+    Initial commit
+
+
